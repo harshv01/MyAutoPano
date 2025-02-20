@@ -7,12 +7,16 @@ This project, "MyAutoPano: Phase 2," is a part of the course RBE549 Computer Vis
 
 **Stitches upto 8 images using cylindrical projection technique!**
 <br>
+<br>
 <img src="https://github.com/user-attachments/assets/d28fb46c-3540-43ac-be15-8eaa5edaef9e" width="500">
 
 **Feature matching:**
 <br>
+<br>
 <img src="https://github.com/user-attachments/assets/d1b1c086-84dc-4a65-b401-414b5b0b3a5c" height="200">
+<br>
 <img src="https://github.com/user-attachments/assets/0d434f6d-b70f-46b3-bdef-628cb1118a7c" height="200">
+<br>
 <img src="https://github.com/user-attachments/assets/2cb0a347-5037-4140-aeb3-7b37484c6897" height="200">
 
 
