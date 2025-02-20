@@ -6,12 +6,12 @@ Installation Guide for MyAutoPano: Phase 2
 This project, "MyAutoPano: Phase 2," is a part of the course RBE549 Computer Vision. The script involves computer vision techniques such as corner detection, feature matching, and image stitching.
 
 **Stitches upto 8 images using cylindrical projection technique!**
-![image](https://github.com/user-attachments/assets/d28fb46c-3540-43ac-be15-8eaa5edaef9e)
+<img src="https://github.com/user-attachments/assets/d28fb46c-3540-43ac-be15-8eaa5edaef9e" width="500">
 
 **Feature matching:**
-![image](https://github.com/user-attachments/assets/d1b1c086-84dc-4a65-b401-414b5b0b3a5c)
-![image](https://github.com/user-attachments/assets/0d434f6d-b70f-46b3-bdef-628cb1118a7c)
-![image](https://github.com/user-attachments/assets/2cb0a347-5037-4140-aeb3-7b37484c6897)
+<img src="https://github.com/user-attachments/assets/d1b1c086-84dc-4a65-b401-414b5b0b3a5c" width="300">
+<img src="https://github.com/user-attachments/assets/0d434f6d-b70f-46b3-bdef-628cb1118a7c" width="300">
+<img src="https://github.com/user-attachments/assets/2cb0a347-5037-4140-aeb3-7b37484c6897" width="300">
 
 
 ## Required Libraries
