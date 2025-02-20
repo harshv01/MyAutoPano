@@ -3,7 +3,7 @@ Installation Guide for MyAutoPano: Phase 2
 
 ## Overview
 
-This project, "MyAutoPano: Phase 2," is a part of the course RBE549 Computer Vision. The script involves computer vision techniques such as corner detection, feature matching, and image stitching.
+The purpose of this project is to stitch two or more images in order to create one seamless panorama image. This project is a part of the course RBE549 Computer Vision at Worcester Polytechnic Institute, Spring 2024 semester. 
 
 **Stitches upto 8 images using cylindrical projection technique!**
 <br>
