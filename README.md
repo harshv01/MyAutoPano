@@ -44,7 +44,7 @@ matplotlib - Required for visualizing images and plotting results.
 
 To install all dependencies at once, run:
 
-pip install numpy opencv-python scikit-image matplotlib
+```pip install numpy opencv-python scikit-image matplotlib```
 
 ## Running the Script
 
